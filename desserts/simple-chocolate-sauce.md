@@ -2,9 +2,9 @@
 
 > Five pantry ingredients, about 15 minutes. Pours thin, thickens as it cools.
 
-| Prep | Cook | Total | Yield | Serves |
-|------|------|-------|-------|--------|
-| 5 min | 10 min | 15 min | ~14 oz | 7 (2 oz each) |
+| Total | Yield | Serves |
+|-------|-------|--------|
+| 15 min | ~14 oz | 7 (2 oz each) |
 
 ## Ingredients
 
